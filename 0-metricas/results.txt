@@ -1,0 +1,66 @@
+sum: 2,000,000,000
+iters: 100
+
+threads : 1
+T(1) : 3556543.68
+T(p) : 3556543.68
+speedup : 1.0
+eficiencia : 1.0
+fraccion_serial : None
+
+threads : 2
+T(1) : 3556543.68
+T(p) : 1718738.46
+speedup : 2.0692756709476323
+eficiencia : 1.0346378354738162
+fraccion_serial : -0.03347822231723585
+
+threads : 4
+T(1) : 3556543.68
+T(p) : 962238.91
+speedup : 3.6961129331176186
+eficiencia : 0.9240282332794046
+fraccion_serial : 0.02740600484719291
+
+threads : 6
+T(1) : 3556543.68
+T(p) : 711157.12
+speedup : 5.001065981031028
+eficiencia : 0.8335109968385046
+fraccion_serial : 0.03994884381681487
+
+threads : 10
+T(1) : 3556543.68
+T(p) : 739511.17
+speedup : 4.809317051965557
+eficiencia : 0.4809317051965557
+fraccion_serial : 0.11992192312334479
+
+threads : 12
+T(1) : 3556543.68
+T(p) : 718095.42
+speedup : 4.952745249370898
+eficiencia : 0.4127287707809082
+fraccion_serial : 0.1293544267930681
+
+threads : 20
+T(1) : 3556543.68
+T(p) : 720780.65
+speedup : 4.934294060197093
+eficiencia : 0.24671470300985465
+fraccion_serial : 0.16069814281334127
+
+threads : 50
+T(1) : 3556543.68
+T(p) : 714792.4
+speedup : 4.97563163794131
+eficiencia : 0.09951263275882621
+fraccion_serial : 0.18467296763760463
+
+threads : 100
+T(1) : 3556543.68
+T(p) : 718611.41
+speedup : 4.949188992142499
+eficiencia : 0.04949188992142499
+fraccion_serial : 0.19399323881627326
+
